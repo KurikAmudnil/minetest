@@ -99,3 +99,7 @@ build/android/obj
 build/android/local.properties
 build/android/.gradle
 timestamp
+# minetest_game
+minetest_game/
+# build files
+_build/
